@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "Hello all";
+echo "Hi Good morning";
 ?>
 
 </body>
